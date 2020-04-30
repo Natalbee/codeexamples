@@ -4,5 +4,5 @@
 
 html, body, *, table, a { font-family: 'Lato'!important; }
 
-.graybg { background: red; }
+.graybg { background: #f0f0f0; }
 .graybg tbody, .graybg tbody tr, .graybg tbody tr td { background: none!important; }
