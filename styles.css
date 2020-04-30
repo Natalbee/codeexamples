@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.noborder, .noborder tbody, .noborder tbody tr, .noborder tbody tr td { border:none!important; }
+
+html, body, *, table, a { font-family: 'Lato'!important; }
+
+.graybg { background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%); }
+.graybg tbody, .graybg tbody tr, .graybg tbody tr td { background: none!important; }
