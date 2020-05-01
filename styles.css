@@ -4,5 +4,6 @@
 
 html, body, *, table, a { font-family: 'Lato'!important; }
 
-.graybg { background: blue; }
+.graybg { background-color: #ffffff;
+background-image: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%); }
 .graybg tbody, .graybg tbody tr, .graybg tbody tr td { background: none!important; }
